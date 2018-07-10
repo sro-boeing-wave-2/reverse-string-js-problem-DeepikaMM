@@ -2,8 +2,8 @@
 // the string using built in functions.
 const reverse = (toBeReversed) => {
   const splitString = toBeReversed.split('');
-  const reverse1 = splitString.reverse();
-  const reversedString = reverse1.join('');
+  const reverse11 = splitString.reverse();
+  const reversedString = reverse11.join('');
   return reversedString;
 };
 
